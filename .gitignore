@@ -1,0 +1,6 @@
+./bike-backend/.idea
+./bike-backend/.mvn
+
+./bike-ui/node_modules
+./bike-ui/.editorconfig
+./bike-ui/dist
